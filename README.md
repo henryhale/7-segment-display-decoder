@@ -14,6 +14,9 @@
 
 A clear understanding of Boolean Algebra and/or Electronics is required to get started with implementing a decoder. A decoder is a combinational circuit and so prior knowledge concerning multiplexers, and encoders might be useful.
 
+> I recommend that you read this article on Wikipedia before you proceed;
+> [Seven Segment Display](https://en.wikipedia.org/wiki/Seven-segment_display)
+
 ## Introduction
 
 A **Display Decoder** is a _combinational circuit_ which decodes an _n-bit input value_ into a number of output lines to drive a display. An device which converts one digit format into another is a **Display Decoder Intergrated Circuit** 
@@ -69,5 +72,7 @@ I only implemented two displays just to be sure;
 - [Digital Clock](./examples/02-digital-clock/)
 
 ## References
+
+- [Seven Segment Display](https://en.wikipedia.org/wiki/Seven-segment_display)
 
 - [BCD to 7 Segment Decoder](https://www.geeksforgeeks.org/bcd-to-7-segment-decoder/)
