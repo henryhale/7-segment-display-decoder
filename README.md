@@ -17,6 +17,12 @@ A clear understanding of Boolean Algebra and/or Electronics is required to get s
 > I recommend that you read this article on Wikipedia before you proceed;
 > [Seven Segment Display](https://en.wikipedia.org/wiki/Seven-segment_display)
 
+## Live Demo
+
+Just to clear the mind, here is a live demo of digital clock
+
+> _Check out this live demo_ [here](https://7segmentdisplaydecoder.netlify.app/)
+
 ## Introduction
 
 A **Display Decoder** is a _combinational circuit_ which decodes an _n-bit input value_ into a number of output lines to drive a display. An device which converts one digit format into another is a **Display Decoder Intergrated Circuit** 
