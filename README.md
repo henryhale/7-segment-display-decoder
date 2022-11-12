@@ -19,7 +19,9 @@ A clear understanding of Boolean Algebra and/or Electronics is required to get s
 
 ## Live Demo
 
-Just to clear the mind, here is a live demo of digital clock
+With **HTML** and **CSS**, the design was done. A touch of **JAVASCRIPT** brought the implentation to life.
+
+Just to clear the mind, here is a live demo of digital clock.
 
 > _Check out this live demo_ [here](https://7segmentdisplaydecoder.netlify.app/)
 
