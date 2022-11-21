@@ -23,7 +23,7 @@ With **HTML** and **CSS**, the design was done. A touch of **JAVASCRIPT** brough
 
 Just to clear the mind, here is a live demo of digital clock.
 
-> _Check out this live demo_ [here](https://7segmentdisplaydecoder.netlify.app/)
+> _Check out this live demo_ [here](https://henryhale.github.io/7-segment-display-decoder/)
 
 ## Introduction
 
